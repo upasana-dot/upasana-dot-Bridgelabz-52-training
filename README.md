@@ -51,3 +51,27 @@
 | 💻 **IntelliJ IDEA**  | Integrated Development Environment (IDE) |
 | 🔗 **Git & GitHub**   | Version control and repository hosting   |
 
+
+## 🧩 SKILLS DEVELOPED  
+
+| ⚙️ CATEGORY | 🧾 DESCRIPTION |
+|--------------|----------------|
+| CORE JAVA | Strong understanding of syntax, loops, methods, and arrays |
+| OOP PRINCIPLES | Real-world implementation of inheritance, polymorphism, abstraction, encapsulation |
+| ERROR HANDLING | Experienced with built-in and custom exceptions |
+| FUNCTIONAL PROGRAMMING | Practiced Functional Interfaces and Lambda Expressions |
+| VERSION CONTROL | Managed repositories using Git and GitHub (branching, commits, pull requests) |
+| CODE REUSABILITY | Created modular and maintainable code using packages and interfaces |
+
+
+
+## 🧠 CONCEPT HIGHLIGHTS  
+
+| 💬 CONCEPT | 🔍 DESCRIPTION |
+|-------------|----------------|
+| ENCAPSULATION | Binding data and methods within a class for security and modularity |
+| POLYMORPHISM | Implemented method overloading and overriding for flexibility |
+| ABSTRACTION | Simplified complexity using abstract classes and interfaces |
+| INHERITANCE | Achieved code reusability through parent-child class relationships |
+| LAMBDA EXPRESSIONS | Wrote cleaner and concise functional-style Java code |
+
