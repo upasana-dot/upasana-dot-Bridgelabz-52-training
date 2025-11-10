@@ -1,131 +1,53 @@
 # upasana-dot-Bridgelabz-52-training
 
-🚀 Bridgelabz Training – Java Learning Journey
-🧠 Repository: Bridgelabz-2415500440-Training
+.
 
-This repository showcases my step-by-step learning progress in Java programming during the Bridgelabz Training Program.
-Each branch highlights a different stage of my journey — from mastering core syntax to implementing Object-Oriented Design, Functional Programming, and Exception Handling.
+🚀 Bridgelabz Java Training – Learning Log
+| Section             | Details                                                                          |
+| ------------------- | -------------------------------------------------------------------------------- |
+| Repository Name     | `Bridgelabz-2415500440-Training`                                                 |
+|   Program           | Bridgelabz Java Training Program                                                 |
+|   Focus             | Learning Core to Advanced Java with Git & GitHub Integration                     |
+|   Objective         | To master Java fundamentals, OOP, Functional Programming, and Exception Handling |
 
-🗂️ Repository Overview
-🌿 Branch	📘 Focus Area
-java-core	Java Fundamentals: syntax, data types, loops, arrays, strings, and logic building
-java-oops	Object-Oriented Programming: classes, inheritance, polymorphism, abstraction, encapsulation
-packages-in-java	Organizing code using packages and imports
-wrapper-class	Wrapper Classes, Autoboxing, and Unboxing
-functional-interface	Functional Interfaces, Default/Static methods, and Lambda Expressions
-error-and-exception	Exception Handling — built-in & custom exceptions
-lambda-expression	Real-world examples using Lambda and functional-style programming
 
+🌿 Repository Branch Overview
+|   Branch Name          |  Concepts Covered                                                                            |
+| ---------------------- | -------------------------------------------------------------------------------------------- |
+| `java-core`            | Java basics: syntax, data types, loops, arrays, strings, and logic building                  |
+| `java-oops`            | Object-Oriented Programming — classes, inheritance, polymorphism, abstraction, encapsulation |
+| `packages-in-java`     | Organizing Java code using packages and imports                                              |
+| `wrapper-class`        | Wrapper Classes, Autoboxing, and Unboxing                                                    |
+| `functional-interface` | Functional Interfaces, Default/Static methods, and Lambda usage                              |
+| `error-and-exception`  | Exception Handling — built-in & custom exceptions                                            |
+| `lambda-expression`    | Real-world implementations of Lambda and functional programming                              |
 
 
-🗓️ Week 1 (Aug 11–13, 2025): Getting Started with Git & Java
+📅 Weekly Progress Tracker
+| **Week & Dates**             | **Topics Covered**                        | **Key Learnings**                                                                                                                                                                                                                                                                               
+| **Week 1 (Aug 11–13, 2025)** | 🧰 Git & Version Control                  | - Installed and configured Git Bash<br>- Learned Git vs GitHub vs Git Bash<br>- Practiced `init`, `add`, `commit`, `push`, `clone`<br>- Learned repository management best practices<br>- Solved basic Java problems                                                                             |
 
-Installed and configured Git Bash
+| **Week 2 (Aug 18–20, 2025)** | ☕ Java Fundamentals                       | - Understood Java structure: `main()` method, syntax, keywords<br>- Worked with data types and variables<br>- Practiced input/output programs<br>- Built comfort with Java environment                                                                                                           |
 
-Understood Git, GitHub, and Version Control
+| **Week 3 (Aug 25–27, 2025)** | 🔁 Control Flow & Arrays                  | - Learned `if-else`, `switch`, loops (`for`, `while`, `do-while`)<br>- Studied arrays (1D & 2D): declaration, initialization, traversal<br>- Practiced nested loops and matrix operations                                                                                                        |
 
-Practiced core commands: init, add, commit, push, clone
+| **Week 4 (Sep 1–3, 2025)**   | 🧩 Methods & Strings                      | - Declared and invoked user-defined methods<br>- Learned about parameters, return types<br>- Explored Strings and their immutability<br>- Compared `String`, `StringBuffer`, and `StringBuilder`                                                                                                 |
 
-Learned Git best practices for maintaining repositories
+| **Week 5 (Sep 8–10, 2025)**  | 🏗️ Introduction to OOP                   | - Studied OOP principles: Encapsulation, Inheritance, Polymorphism, Abstraction<br>- Practiced constructors: default, parameterized, copy<br>- Learned access modifiers and static vs instance members<br>- Implemented inheritance hierarchies                                                  |
 
-Solved basic Java programs to strengthen logic
+| **Week 6 (Sep 15–17, 2025)** | ⚙️ Advanced OOP Concepts                  | - Explored Abstract Classes & Interfaces<br>- Practiced Method Overloading and Overriding<br>- Understood Upcasting and Downcasting<br>- Combined abstraction with interfaces in examples                                                                                                        |
 
+| **Week 7 (Sep 22–24, 2025)** | 💡 Applying OOP Concepts                  | - Solved real-world coding problems using OOP<br>- Focused on reusable, modular, and structured code                                                                                                                                                                                             |
 
+| **Week 8 (Oct 13–15, 2025)** | 🧠 Functional Interfaces & Lambdas        | - Completed Interfaces topic<br>- Learned Functional Interfaces, Default & Static Methods<br>- Introduced to Marker Interfaces and Lambda Expressions<br>- Practiced functional-style Java code                                                                                                  |
 
-🗓️ Week 2 (Aug 18–20, 2025): Java Fundamentals
+| **Week 9 (Oct 27–29, 2025)** | 📦 Packages, Exceptions & Wrapper Classes | - Created and imported Java packages<br>- Implemented Exception Handling: `try`, `catch`, `finally`, `throw`, `throws`<br>- Understood checked vs unchecked exceptions<br>- Created custom exceptions<br>- Practiced Wrapper Classes, Autoboxing & Unboxing<br>- Integrated all in mini-projects |
 
-Studied Java structure – main() method, syntax, keywords, and statements
 
-Learned about data types, variables, and I/O operations
+🧰 Tools & Technologies
+| **Tool / Technology** | **Purpose**                              |
+| --------------------- | ---------------------------------------- |
+| ☕ **Java JDK 25**     | Development platform for Java programs   |
+| 💻 **IntelliJ IDEA**  | Integrated Development Environment (IDE) |
+| 🔗 **Git & GitHub**   | Version control and repository hosting   |
 
-Practiced simple programs for input/output and flow control
-
-
-
-🗓️ Week 3 (Aug 25–27, 2025): Control Flow & Arrays
-
-Mastered decision-making using if-else and switch
-
-Implemented loops – for, while, do-while
-
-Worked with 1D and 2D arrays
-
-Built programs involving nested loops and matrix operations
-
-
-
-🗓️ Week 4 (Sep 1–3, 2025): Methods & Strings
-
-Explored methods — declaration, parameters, and return types
-
-Practiced user-defined methods for modular coding
-
-Studied Strings, StringBuffer, and StringBuilder
-
-Understood the difference between them and string immutability
-
-
-
-🗓️ Week 5 (Sep 8–10, 2025): Introduction to OOP
-
-Learned OOP Principles: Encapsulation, Inheritance, Polymorphism, Abstraction
-
-Practiced constructors – default, parameterized, and copy
-
-Understood static vs instance members and access modifiers
-
-Created hierarchical class structures to model real-world relationships
-
-
-
-🗓️ Week 6 (Sep 15–17, 2025): Advanced OOP Concepts
-
-Deep-dived into Interfaces and Abstract Classes
-
-Implemented Method Overloading and Overriding
-
-Understood Upcasting and Downcasting
-
-Combined abstraction and interface implementation in practice programs
-
-
-
-🗓️ Week 7 (Sep 22–24, 2025): OOP Application Practice
-
-Solved real-world coding exercises applying all OOP principles
-
-Focused on clean, reusable, and object-oriented code design
-
-
-
-🗓️ Week 8 (Oct 13–15, 2025): Functional Interfaces & Lambdas
-
-Completed learning Interfaces in Java
-
-Studied Functional Interfaces, Default/Static Methods, and Marker Interfaces
-
-Introduced to Lambda Expressions for concise coding
-
-Practiced applying Lambdas with functional interfaces
-
-
-
-🗓️ Week 9 (Oct 27–29, 2025): Packages, Exceptions & Wrapper Classes
-
-Learned Java Packages — structure, usage, and imports
-
-Studied Exception Handling: try, catch, finally, throw, throws
-
-Understood checked vs unchecked exceptions
-
-Created custom exceptions
-
-Practiced Wrapper Classes, Autoboxing, and Unboxing
-
-Integrated all these concepts into small Java projects
-
-⚙️ Tools & Technologies
-Tool	Purpose
-☕ Java JDK 25	Core development platform
-🧩 IntelliJ IDEA	Primary IDE for coding
-🔗 Git & GitHub	Version control and repository hosting
